@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello there!! Myself Gaurav.
+
+I am MS(by research) student in Electrical engineering department of IIT KANPUR. My thesis topics lies on intersection of computer sciense and electrical engineering domain. I am currently working on Deep learning based fault diagnosis of physical system with the aim of genralizing the diagnosis procedure for differnt signal signatures. I have good fortune to work with  prof. K S Venkatesh(my thesis advisor) and prof N.K Verma.
+
+I have worked around 8 months in Artificial intelligence data analaytics research lab(AIDAR Lab),IIT Kanpur researching solution for smoothing gradient in Generative Adevrsial Networks(GANs), Learning deep learning framework , exploring PSO, Genetic Algorithm, second order derivative method (Hessian Matrix) for conventional first-order gradient Descent. For a short period of time, i also worked in Computer vision problem of Uttarpradesh goevernment forest-wildlife project using YOLO and SSD on top of Inception Net, training the model on custom dataset and finding solution to increase mAP of network.
+
+By the end of 2019, i started working as Senior student Research Assosciate(SSRA) for DRDO, Goverment of India,(JCBCAT) in their highly interdiscplinary project which goes by name "Complex Defense Object Recognition And autonomous handling in Uustructured and Noisy outdoor Environment". In this project, we were icorporating 3-D computervision with conventional point cloud algorithm(ICP/GICP) so the robotic mainpulator can know the orientaion shape size texture(surface) of Interested object. My work is to create a smooth pipeline for the project, right from sensing point cloud to classfying into interested known categories. powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
