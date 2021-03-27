@@ -14,7 +14,7 @@ description              : &description "Researcher @IIT KANPUR"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gauravkr0071.github.io/intro/"
-teaser                   :  "/images/pp.png"
+teaser                   :  "/images/pp.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "pp.png"
+  name             : "Gaurav"
+  avatar           : "pp.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Kanpur"
   employer         :
