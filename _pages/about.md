@@ -15,3 +15,8 @@ I am MS(by research) student in [Electrical engineering]() department of [IIT KA
 I have worked around 8 months in Artificial intelligence data analaytics research lab(AIDAR Lab),IIT Kanpur researching solution for smoothing gradient in Generative Adevrsial Networks(GANs), Learning deep learning framework , exploring PSO, Genetic Algorithm, second order derivative method (Hessian Matrix) for conventional first-order gradient Descent. For a short period of time, i also worked in Computer vision problem of Uttarpradesh goevernment forest-wildlife project using YOLO and SSD on top of Inception Net, training the model on custom dataset and finding solution to increase mAP of network.
 
 By the end of 2019, i started working as Senior student Research Assosciate(SSRA) for DRDO, Goverment of India,(JCBCAT) in their highly interdiscplinary project which goes by name "Complex Defense Object Recognition And autonomous handling in Unstructured and Noisy outdoor Environment". In this project, we were icorporating 3-D computervision with conventional point cloud algorithm(ICP/GICP) so the robotic mainpulator can know the orientaion shape size texture(surface) of Interested object. My work is to create a smooth pipeline for the project, right from sensing point cloud to classfying into interested known categories.
+
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7790206&style=0010&nbdigits=6&type=page&initCount=50" title="Free Counter" Alt="web counter"   border="0" /></a>   
