@@ -48,7 +48,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching[GAURAV_18204403_apporchid.pdf](https://github.com/gauravkr0071/intro/files/6336469/GAURAV_18204403_apporchid.pdf)
+
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
