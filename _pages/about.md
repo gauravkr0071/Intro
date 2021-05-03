@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there !! ✋
 
-I am MS(by research) student in [Electrical engineering]() department of [IIT KANPUR](https://www.iitk.ac.in/). My thesis topics lies on intersection of Computer Science and Electrical Engineering domain. I am currently working on Deep learning based fault diagnosis of physical system with the aim of genralizing the diagnosis procedure for different signal signatures. I have good fortune to work with  prof. [K S Venkatesh](http://home.iitk.ac.in/~venkats/)(my thesis advisor) and prof N.K Verma.
+I am MS(by research) student in [Electrical engineering](https://www.iitk.ac.in/ee/pg-students-stream-wise-list#caa) department of [IIT KANPUR](https://www.iitk.ac.in/). My thesis topics lies on intersection of Computer Science and Electrical Engineering domain. I am currently working on Deep learning based fault diagnosis of physical system with the aim of genralizing the diagnosis procedure for different signal signatures. I have good fortune to work with  prof. [K S Venkatesh](http://home.iitk.ac.in/~venkats/)(my thesis advisor) and prof N.K Verma.
 
 I have worked around 8 months in Artificial intelligence data analaytics research lab(AIDAR Lab), IIT Kanpur researching solution for smoothing gradient in Generative Adevrsial Networks(GANs), Learning deep learning framework , exploring PSO, Genetic Algorithm, second order derivative method (Hessian Matrix) for conventional first-order gradient Descent. For a short period of time, i also worked on Computer vision problem of Uttarpradesh government forest-wildlife project using YOLO and SSD on top of Inception Net, training the model on custom dataset and finding solution to increase mAP of network.
 
