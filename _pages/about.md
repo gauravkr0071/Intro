@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">Hello there !!</span>.
+<span style="color:green">Hello there !!</span>.
 
 I am MS(by research) student in [Electrical engineering](https://www.iitk.ac.in/ee/pg-students-stream-wise-list#caa) department of [IIT KANPUR](https://www.iitk.ac.in/). My thesis topics lies on intersection of Computer Science and Electrical Engineering domain. I am currently working on Deep learning based fault diagnosis of physical system with the aim of genralizing the diagnosis procedure for different signal signatures. I have good fortune to work with  prof. [K S Venkatesh](http://home.iitk.ac.in/~venkats/)(my thesis advisor) and prof N.K Verma.
 
