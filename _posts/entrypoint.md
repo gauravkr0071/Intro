@@ -1,6 +1,6 @@
 ---
 title: 'My Movie Reviews'
-date: 2012-08-14
+date: 2021-05-29
 permalink: /posts/entrypoint/
 tags:
   - cool posts
