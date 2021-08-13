@@ -16,15 +16,15 @@ I have worked around 8 months in Artificial intelligence data analaytics researc
 
 By the end of 2019, i started working as Senior Student Research Assosciate(SSRA) for DRDO, Goverment of India,(JCBCAT) in their highly interdiscplinary project which goes by name "__Complex Defense Object Recognition And autonomous handling in Unstructured and Noisy outdoor Environment__". In this project, we were icorporating 3-D computer vision with conventional point cloud algorithm(ICP/GICP) so the robotic mainpulator can know the orientaion shape size texture(surface) of Interested object. My work is to create a smooth pipeline for the project, right from sensing point cloud to classfying into interested known categories.
 
-__My Tech Stack:-__ 
-Framework- Keras, Tensorflow, pytorch, Scikit-learn, NumPy, Matplotlib
-Languages- C/C++, Python, MATLAB
-IDE- Pycharm, Jupyter, Spyder, Anaconda, Google colab
-OS- Windows/Linux
-Machine learning- Backpropagation, Gradient Decent/Accent perceptron model, SVM, Linear Regression, Multiple Linear Regression, Regression analysis 
-Deep Learning- CNNs, Variational Autoencoder, Generative Adversial Network(GANs), Autoencoder, Feature Extraction
-Computer Vision- Convolution Neural Network, Deep Neural Network, Agumentation techniques
-CS Funadmentals- Data structures and Algorithms, Operating system, OOPs
+##__My Tech Stack:-__ 
+- Framework- Keras, Tensorflow, pytorch, Scikit-learn, NumPy, Matplotlib
+- Languages- C/C++, Python, MATLAB
+- IDE- Pycharm, Jupyter, Spyder, Anaconda, Google colab
+- OS- Windows/Linux
+- Machine learning- Backpropagation, Gradient Decent/Accent perceptron model, SVM, Linear Regression, Multiple Linear Regression, Regression analysis 
+- Deep Learning- CNNs, Variational Autoencoder, Generative Adversial Network(GANs), Autoencoder, Feature Extraction
+- Computer Vision- Convolution Neural Network, Deep Neural Network, Agumentation techniques
+- CS Funadmentals- Data structures and Algorithms, Operating system, OOPs
 
 
 
