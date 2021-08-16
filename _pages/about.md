@@ -27,6 +27,9 @@ At starting of pandemic, I was working as a Research enginner in Banglore based 
 - __Deep Learning__: CNNs, Variational Autoencoder, Generative Adversial Network(GANs), Autoencoder, Feature Extraction
 - __Computer Vision__: Convolution Neural Network, Deep Neural Network, Agumentation techniques
 - __CS Funadmentals__: Data structures and Algorithms, Operating system, OOPs
+- __Version Control__: Github/Gitlab, TortoiseSVN
+- __Software Devlopment Methedology__: Agile, WaterFall, Scrum
+- __Software Testing__: Unit testing, Blackbox/Whitebox/Graybox testing 
 
 
 
