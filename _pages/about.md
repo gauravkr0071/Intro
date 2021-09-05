@@ -18,6 +18,8 @@ By the end of 2019, i started working as Senior Student Research Assosciate(SSRA
 
 At starting of pandemic, I was working as a Research enginner in Banglore based stealth-mode startup [Bramhansh tech. Pvt Ltd.](https://bramhansh.in/) on their Futuristic AI based Lifestyle product. My work was to develop AI algorithm which can sense the change in mood of a person and recommends music according to it, for this we are capturing Brain waves from the person from a Headphone,  "<em>Oh have you watched, Black mirror episodes, you guessed it right</em>". The detail work i will post soon here with the code. 
 
+⚡ Latest Updates : Glad to inform you that my paper on "__Fault diagnosis of Machines using Deep Convolutional Beta-Variational Autoencoder__" has been accepted by __IEEE Transactions on Artificial intelligence__ on 4th sept 2021. It will take some time for IEEE team to publish on ieee sites. Codes and tutorial of this paper will be uploaded [here](https://github.com/gauravkr0071/beta-VAE) soon.
+
 ## __My Tech Stack:-__ 
 - __Framework__ : Keras, Tensorflow, pytorch, Scikit-learn, NumPy, Matplotlib
 - __Languages__: C/C++, Python, MATLAB
