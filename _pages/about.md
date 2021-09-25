@@ -24,7 +24,7 @@ My life long dream is to give machines a sense of conciousness. Wait, do we unde
 
 Want to collaborate with me on something ? drop me a mail
 
-⚡ Latest Updates : Glad to inform you that my paper on "__Fault diagnosis of Machines using Deep Convolutional Beta-Variational Autoencoder__" has been accepted by __IEEE Transactions on Artificial intelligence__ on 4th sept 2021. It will take some time for IEEE team to publish on ieee sites. Codes and tutorial of this paper will be uploaded [here](https://github.com/gauravkr0071/beta-VAE) soon.
+⚡ Latest Updates : Glad to inform you that my paper on "__[Fault diagnosis of Machines using Deep Convolutional Beta-Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/9536242)__" has been accepted by __IEEE Transactions on Artificial intelligence__ on 4th sept 2021. Codes and tutorial of this paper will be uploaded [here](https://github.com/gauravkr0071/beta-VAE) soon.
 
 ## __My Tech Stack:-__ 
 - __Framework__ : Keras, Tensorflow, pytorch, Scikit-learn, NumPy, Matplotlib
